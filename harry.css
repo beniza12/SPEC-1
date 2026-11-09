@@ -4,9 +4,10 @@
     text-align: center;
     width: 380px;
     height:20cm;
-    margin-left: 350px;
-    margin-right: 350px;
+    margin-left: 33.33%;
+    margin-right: 33.33%;
     border-style: dashed;
+
 }
 
 article{
@@ -19,4 +20,14 @@ article{
     background-size: cover;
    height: 200px;
    
+}
+
+.photo{
+    background-image: url(https://i.pinimg.com/736x/eb/88/af/eb88af12b8769d5339270ff236a01728.jpg);
+     border-style: dashed;
+    background-size: cover;
+   height: 150px;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+
 }
