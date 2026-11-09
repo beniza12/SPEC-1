@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harry Potter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<header>
+    <h1>Harry Potter</h1>
+    <aside>
+        <img  class="photo" src="https://i.pinimg.com/originals/8d/75/a6/8d75a6c1e75e8d348d50157c83951f71.jpg" height="250" width="200">
+    </aside>
+</header>
+<nav>
+    <a href="home">Home</a>
+    <a href="education">Education</a>
+    <a href="family">Family</a>
+    <a href="friends">Friends</a>
+    <a href="enemy">Greatest Enemy</a>
+    
+
+</nav>
+
+<body>
+    <article id="home">
+    <p> -an adolescent wizard with green eyes, round horn-rimmed glasses, and unruly black hair covering a lightning-shaped scar—the remnant of a wound he received as a baby at the hand of Lord Voldemort. In spite of being bullied by his cousin, Dudley, Harry is not bitter but kind, down-to-earth, and loving. When Harry is eleven, headmaster Albus Dumbledore sends Rubeus Hagrid to retrieve him from the Dursleys, his Muggle (nonmagical) relatives, and bring him to Hogwarts School of Witchcraft and Wizardry. </p>
+    </article>
+
+    <article id="education">
+        <h2>Education</h2>
+        <p>Harry received his magical education at Hogwarts School of Witchcraft and Wizardry. He was sorted into Gryffindor House during his first year. At Hogwarts, he studied subjects such as Potions, Charms, and Defense Against the Dark Arts. Harry was also a talented Quidditch player and became the youngest Seeker in a century. His years at Hogwarts prepared him to face the challenges of the wizarding world.</p>
+        
+    </article>
+
+    <article id="family">
+        <h2>Family</h2>
+        <p>Harry Potter was born to James Potter and Lily Potter, two talented wizards. His parents were killed by Lord Voldemort when Harry was only a baby. After their deaths, Harry was raised by his aunt Petunia Dursley and uncle Vernon Dursley. He also lived with his cousin Dudley Dursley, who often treated him poorly. Despite losing his parents, Harry later learned about their bravery and love for him.</p>
+        
+    </article>
+
+    <article id="friends">
+        <h2>Friends</h2>
+        <p>Harry's best friends were Ron Weasley and Hermione Granger. Ron came from a large and loving wizarding family. Hermione was highly intelligent and excelled in her studies. Together, the three friends faced many dangerous challenges at Hogwarts. Their loyalty and teamwork helped Harry throughout his journey.</p>
+    </article>
+
+    <article id="enemy">
+        <h2>Greatest Enemy</h2>
+        <p>Harry's greatest enemy was Lord Voldemort, one of the darkest wizards in history. Voldemort murdered Harry's parents in an attempt to gain power. He tried many times to kill Harry and take control of the wizarding world. Harry and Voldemort shared a mysterious magical connection. Their final battle ended with Voldemort's defeat.</p>
+    </article>
+
+
+    
+</body>
+</html>
