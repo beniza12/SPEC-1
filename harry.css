@@ -1,0 +1,22 @@
+
+
+.card{
+    text-align: center;
+    width: 380px;
+    height:20cm;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-style: dashed;
+}
+
+article{
+    background-color: bisque;
+}
+
+.cover{
+    background-image: url(https://i.pinimg.com/originals/8b/9f/c4/8b9fc4d45ab66b566f1ab0c4cc93b1d0.jpg);
+    border-style: dashed;
+    background-size: cover;
+   height: 200px;
+   
+}
