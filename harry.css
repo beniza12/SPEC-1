@@ -3,24 +3,33 @@
 .card{
     text-align: center;
     width: 380px;
-    height:30cm;
-    margin-left: 770px;
-    margin-right: 770px;
     border-style: dashed;
-    padding: 35px;
     border-color: blanchedalmond;
+    
 
 }
 
 article{
     background-color: bisque;
+    align-items: center;
+    background-attachment: scroll;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    
 }
 
 .cover{
     background-image: url(https://i.pinimg.com/originals/8b/9f/c4/8b9fc4d45ab66b566f1ab0c4cc93b1d0.jpg);
     border-style: dashed;
     background-size: cover;
-   height: 200px;
+    background-position: 100%;
+    background-attachment: scroll;
+    height: 700px;
+    width: 380px;
+    margin: 0;
+   
+    padding: 0;
    
    
 }
@@ -30,11 +39,32 @@ article{
     background-size: cover;
    height: 200px;
    width: 200px;
-   margin-top: 20px;
+   margin-top: -150px;
    margin-bottom: 20px;
    margin-left: 90px;
    margin-right: 90px;
+   border-radius: 50%;
 
    
 }
 
+.subtitle{
+    padding: 0%;
+}
+
+.description{
+    padding: 15px;
+}
+
+.det{
+    padding: 15px;
+}
+
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+}
