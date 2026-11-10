@@ -3,10 +3,11 @@
 .card{
     text-align: center;
     width: 380px;
-    height:20cm;
-    margin-left: 33.33%;
-    margin-right: 33.33%;
+    height:30cm;
+    margin-left: 770px;
+    margin-right: 770px;
     border-style: dashed;
+    padding: 35px;
 
 }
 
@@ -26,8 +27,8 @@ article{
     background-image: url(https://i.pinimg.com/736x/eb/88/af/eb88af12b8769d5339270ff236a01728.jpg);
      border-style: dashed;
     background-size: cover;
-   height: 150px;
-   background-attachment: fixed;
-   background-repeat: no-repeat;
+   height: 450px;
+   margin: 20px;
+   
 
 }
