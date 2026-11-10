@@ -8,6 +8,7 @@
     margin-right: 770px;
     border-style: dashed;
     padding: 35px;
+    border-color: blanchedalmond;
 
 }
 
@@ -21,14 +22,19 @@ article{
     background-size: cover;
    height: 200px;
    
+   
 }
 
 .photo{
     background-image: url(https://i.pinimg.com/736x/eb/88/af/eb88af12b8769d5339270ff236a01728.jpg);
-     border-style: dashed;
     background-size: cover;
-   height: 450px;
-   margin: 20px;
-   
+   height: 200px;
+   width: 200px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 90px;
+   margin-right: 90px;
 
+   
 }
+
